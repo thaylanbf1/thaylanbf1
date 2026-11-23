@@ -22,7 +22,7 @@ I'm **Thaylan Fonseca**, a fifth-semester Software Engineering student at UEPA f
 
 **📂 Projects**
 
-- **Front-end Developer @ SIGRA**
+- **Front-end Developer @ [SIGRA](https://github.com/matheuz-rodrigues/SIGRE)** — Integrated Academic Reservation Management System: manages UEPA's rooms and reservations through an administrative web interface, with Google Calendar integration. I also review the pull requests that involve the front end · *React, JavaScript, Vite*
 - **Front-end Developer @ [EcoTech](https://github.com/thaylanbf1/EcoTech)** — event platform with registration, PDF paper submission, blind peer review and an admin panel. I also designed the screen prototypes in Figma and reviewed my teammates' front-end code · *React, TypeScript, Vite, Figma*
 - **Front-end Developer @ [Apoio Delas](https://github.com/thaylanbf1/Apoio-Delas)** — web platform supporting women, with a reporting channel and access to assistance resources · *React, TypeScript, Tailwind CSS*
 - **Front-end Developer @ [Vozes da Diversidade](https://github.com/thaylanbf1/Vozes-da-Diversidade)** — UEPA extension project: a reporting and legal/psychological support platform for the LGBTQIAPN+ community *(in progress)* · *React, JavaScript, CSS*
